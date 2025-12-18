@@ -18,9 +18,9 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Engineering student** (4th Year) at **Gazi University**, Ankara. I have a keen interest in **Web Development** (both Backend and Frontend) and strong programming skills. I am passionate about building applications using structured development methodologies like **DDD** and **Clean Architecture**.
+I am a **Computer Engineering student** (3rd Year) at **Gazi University**, Ankara. I have a keen interest in **Web Development** (both Backend and Frontend) and **Generative AI**. I am passionate about building applications using structured development methodologies like **DDD** and **Clean Architecture**.
 
-- 🔭 I’m currently working on **Microservices and .NET 9**.
+- 🔭 I’m currently working on **Microservices, .NET 9, and LLM-based applications**.
 - 💼 I recently completed an internship as a **Full Stack Developer** at Ryaz Information Technologies Inc.
 - 🗣️ **Languages:** Turkish (C1), English (B2), Persian (Native).
 
@@ -33,15 +33,21 @@ I am a **Computer Engineering student** (4th Year) at **Gazi University**, Ankar
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 **Frameworks & Technologies**
 <p>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+</p>
+
+**AI & Data Science**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 **Databases & Concepts**
@@ -58,6 +64,7 @@ I am a **Computer Engineering student** (4th Year) at **Gazi University**, Ankar
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **LLM Quiz Generator** | An AI-powered tool that automatically generates quizzes and tests from uploaded study materials and documents. | LangChain, Streamlit, Python |
 | **Rent A Car Project** | A car rental system with Admin Panel, utilizing **Clean Architecture**, **DDD**, and **CQRS**. Features an Nx monorepo frontend and JWT security. | ASP.NET Core 9, Angular 20 |
 | **E-Mail Application** | Secure mail app using Identity and JWT. Implements **AI-based toxicity detection** for incoming emails. | ASP.NET Core MVC 9, MSSQL |
 | **Library Automation** | A UI application for managing library operations with a file-based database. | Java, Swing |
