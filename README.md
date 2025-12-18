@@ -121,11 +121,11 @@ const Arsalan = {
 
 <div align="center">
 
-| 🎯 Project | 📝 Description | �� Link |
+| 🎯 Project | 📝 Description | 🔗 Link |
 |-----------|---------------|---------|
-| **Project Alpha** | An innovative solution for problem X | [View →](https://github.com/Arsalan7861) |
-| **Project Beta** | A powerful tool for developers | [View →](https://github.com/Arsalan7861) |
-| **Project Gamma** | Open-source contribution | [View →](https://github.com/Arsalan7861) |
+| **Project Alpha** | An innovative solution for problem X | [View →](#) |
+| **Project Beta** | A powerful tool for developers | [View →](#) |
+| **Project Gamma** | Open-source contribution | [View →](#) |
 
 </div>
 
@@ -165,7 +165,9 @@ const Arsalan = {
 
 ### Show some ❤️ by starring some of my repositories!
 
+<!-- Optional: Uncomment below after setting up GitHub Actions for snake animation
 ![Snake animation](https://raw.githubusercontent.com/Arsalan7861/Arsalan7861/output/github-contribution-grid-snake.svg)
+-->
 
 ---
 
